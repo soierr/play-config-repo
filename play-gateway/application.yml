@@ -1,8 +1,5 @@
 server:
-    port: 8083
-    
+  port: 8080
+
 spring:
-    actvate:
-        on-profile: local
-mine:
-    hello: again
+  profile: mine

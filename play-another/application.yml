@@ -1,8 +1,5 @@
 server:
-    port: 8084
-    
+  port: 8082
+
 spring:
-    actvate:
-        on-profile: local
-mine:
-    hello: againnn
+  profiles: mine-again
