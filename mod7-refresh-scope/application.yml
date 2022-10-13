@@ -2,4 +2,6 @@ server:
   port: 8082
 
 spring:
-  profiles: mod7-dev
+  profiles: 
+    - default
+    - mod7-dev
